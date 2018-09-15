@@ -1,0 +1,119 @@
+anna = ComputerPlayer("Anna Truffet")
+players = [anna, HumanPlayer("Henry O'Brien"), ComputerPlayer("Josh Arnold")]
+deck = Deck([Card(1, "red"), Card(2, "blue"), Card(3, "red"), Card(4,"green")])
+/// game = a2_support.UnoGame(deck, players)
+
+
+card = SkipCard(0, "blue")
+/// game.current_player().get_name()
+/// card.play(anna, game)
+/// game.current_player().get_name()
+
+
+card = ReverseCard(0, "red")
+/// game.current_player().get_name()
+/// game.next_player().get_name()
+/// game.next_player().get_name()
+/// game.next_player().get_name()
+/// card.play(anna, game)
+/// game.next_player().get_name()
+/// game.next_player().get_name()
+/// game.next_player().get_name()
+
+
+
+/// game.next_player().get_deck().get_cards()
+card = Pickup2Card(0, "red")
+/// card.play(anna, game)
+/// game.next_player().get_deck().get_cards()
+
+
+/// game.next_player().get_deck().get_cards()
+card = Pickup4Card(0, "red")
+/// card.play(anna, game)
+/// game.next_player().get_deck().get_cards()
+
+
+
+
+card = Card(23, "yellow")
+card.__str__()
+card
+card = Card(42, "red")
+card.get_number()
+card.get_colour()
+card.set_number(12)
+card.get_number()
+card.get_pickup_amount()
+special_card = Pickup2Card(0, "red")
+special_card.get_pickup_amount()
+special_card.matches(card)
+card.matches(special_card)
+blue_card = ReverseCard(0, "blue")
+special_card.matches(blue_card)
+
+
+cards = [card, special_card, blue_card]
+deck = Deck(cards)
+deck.get_cards()
+deck.get_amount()
+deck.top()
+new_card = SkipCard(0, "green")
+deck.add_cards(new_card)
+deck.add_cards([card, special_card, blue_card])
+deck.get_amount()
+deck.get_cards()
+deck.pick()
+deck.pick(amount=2)
+deck.shuffle()
+deck.get_cards()
+
+
+player = Player("Peter O'Shea")
+player.get_name()
+player.get_deck()
+player.get_deck().get_cards()
+player.is_playable()
+player.has_won()
+player.get_deck().add_cards(Card(32, "red"))
+player.has_won()
+human = HumanPlayer("Peter Sutton")
+human.is_playable()
+human.pick_card(deck)
+print(human.pick_card(deck))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
