@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09e36c06-1de0-4f97-91ba-cc27b0e3f036" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/18-9-15 python uno game.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a2_origin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a2_sample_tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a2_support.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/reverse.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/skip.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testrunner.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a2.py" beforeDir="false" afterPath="$PROJECT_DIR$/a2.py" afterDir="false" />
-    </list>
+    <list default="true" id="09e36c06-1de0-4f97-91ba-cc27b0e3f036" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,14 +12,15 @@
     <session id="733595598">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -64,7 +50,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/a2_support.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-814">
+            <state relative-caret-position="990">
               <caret line="49" column="42" selection-start-line="49" selection-start-column="42" selection-end-line="49" selection-end-column="42" />
               <folding>
                 <element signature="e#53#66#0" expanded="true" />
@@ -76,8 +62,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gui.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="595" lean-forward="true" selection-start-line="595" selection-end-line="595" />
+            <state relative-caret-position="12980">
+              <caret line="595" selection-start-line="595" selection-end-line="595" />
               <folding>
                 <element signature="e#58#78#0" expanded="true" />
               </folding>
@@ -88,17 +74,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/a2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="284" column="27" lean-forward="true" selection-start-line="284" selection-start-column="27" selection-end-line="284" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/teamcity/diff_tools.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="137">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="6248">
+              <caret line="284" column="27" selection-start-line="284" selection-start-column="27" selection-end-line="284" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -106,8 +83,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testrunner.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="560" column="42" lean-forward="true" selection-start-line="560" selection-start-column="42" selection-end-line="560" selection-end-column="42" />
+            <state relative-caret-position="11902">
+              <caret line="560" column="42" selection-start-line="560" selection-start-column="42" selection-end-line="560" selection-end-column="42" />
               <folding>
                 <element signature="e#48#63#0" expanded="true" />
               </folding>
@@ -118,8 +95,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/a2_sample_tests.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="577">
-              <caret line="555" column="26" lean-forward="true" selection-start-line="555" selection-start-column="26" selection-end-line="555" selection-end-column="26" />
+            <state relative-caret-position="303">
+              <caret line="463" column="39" selection-start-line="463" selection-start-column="39" selection-end-line="463" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -153,7 +130,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="814" />
     <option name="y" value="27" />
     <option name="width" value="1106" />
@@ -165,7 +142,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -177,10 +153,11 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LinkList" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -384,26 +361,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/teamcity/diff_tools.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testrunner.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="560" column="42" lean-forward="true" selection-start-line="560" selection-start-column="42" selection-end-line="560" selection-end-column="42" />
-          <folding>
-            <element signature="e#48#63#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/a2_support.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-814">
+        <state relative-caret-position="990">
           <caret line="49" column="42" selection-start-line="49" selection-start-column="42" selection-end-line="49" selection-end-column="42" />
           <folding>
             <element signature="e#53#66#0" expanded="true" />
@@ -411,27 +371,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/a2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="284" column="27" lean-forward="true" selection-start-line="284" selection-start-column="27" selection-end-line="284" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gui.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="595" lean-forward="true" selection-start-line="595" selection-end-line="595" />
+        <state relative-caret-position="12980">
+          <caret line="595" selection-start-line="595" selection-end-line="595" />
           <folding>
             <element signature="e#58#78#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/a2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6248">
+          <caret line="284" column="27" selection-start-line="284" selection-start-column="27" selection-end-line="284" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/teamcity/diff_tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testrunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11902">
+          <caret line="560" column="42" selection-start-line="560" selection-start-column="42" selection-end-line="560" selection-end-column="42" />
+          <folding>
+            <element signature="e#48#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/a2_sample_tests.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="577">
-          <caret line="555" column="26" lean-forward="true" selection-start-line="555" selection-start-column="26" selection-end-line="555" selection-end-column="26" />
+        <state relative-caret-position="303">
+          <caret line="463" column="39" selection-start-line="463" selection-start-column="39" selection-end-line="463" selection-end-column="39" />
         </state>
       </provider>
     </entry>
